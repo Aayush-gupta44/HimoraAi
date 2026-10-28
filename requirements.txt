@@ -1,0 +1,14 @@
+openai
+openai-whisper
+pyttsx3
+pyautogui
+keyboard
+mouse
+mss
+opencv-python
+pytesseract
+sounddevice
+numpy
+playwright
+sqlite-utils
+psutil
