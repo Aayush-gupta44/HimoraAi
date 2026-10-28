@@ -6,7 +6,7 @@ __pycache__/
 venv/
 .venv/
 
-# API keys and environment variables
+# API keys and secrets
 .env
 .env.*
 !.env.example
@@ -21,4 +21,6 @@ memory_data/
 # Editor files
 .vscode/
 .idea/
-requirements.txt.save
+
+# Backup files
+*.save
