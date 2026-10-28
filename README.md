@@ -10,7 +10,7 @@ The demonstration showcases how Himora AI understands voice and text commands, i
 
 [![Himora AI – Watch Demonstration]
 https://github.com/user-attachments/assets/6fee1aef-befe-409d-a265-3a1778b39007
-
+For clear video- https://canva.link/himoraai
 
 
 ---
@@ -198,3 +198,6 @@ For me, Himora AI is more than a chatbot. It is an ongoing exploration of how co
 **Developed by Aayush Gupta**
 
 [GitHub](https://github.com/Aayush-gupta44)
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/571be605-05b1-4815-ad16-93f9843c8981" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5f9dc996-5a26-4955-b6fb-113de812a0cb" />
