@@ -8,9 +8,9 @@ See Himora AI in action.
 
 The demonstration showcases how Himora AI understands voice and text commands, interacts with desktop applications, performs everyday tasks, and responds to general questions through AI-powered conversations.
 
-[![Himora AI – Watch Demonstration](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Himora AI – Watch Demonstration]
+https://github.com/user-attachments/assets/2c2e309d-cbf5-4721-9ce3-4cc853f86d2f
 
-*Click the thumbnail to watch the full demonstration.*
 
 ---
 
